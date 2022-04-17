@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneBookTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-17T07:34:54" hostname="DESKTOP-0R2N16F" time="0.063">
+  <properties/>
+  <testcase name="hamcrestFindContactInGroup()" classname="PhoneBookTest" time="0.042"/>
+  <testcase name="testFindContactInGroup()" classname="PhoneBookTest" time="0.013"/>
+  <testcase name="hamcrestAddContactToGroup()" classname="PhoneBookTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
